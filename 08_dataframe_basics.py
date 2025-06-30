@@ -1,13 +1,13 @@
 import pandas as pd
 import os
 
-d={
+d = {
     'name': ['Anna', 'Béla', 'Csaba'],
     'age': [21, 23, 22],
     'score': [88, 75, 101]
 }
 
-df=pd.DataFrame(d)
+df = pd.DataFrame(d)
 
 print(df)
 
