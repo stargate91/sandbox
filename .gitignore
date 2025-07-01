@@ -23,7 +23,7 @@ Thumbs.db
 # Specifically ignored files
 03_log_error_counter/log.txt
 04_csv_score_checker/scores.csv
-08_pandas_basics/08_data.csv
-08_pandas_basics/08_new.csv
-09_plotting_basics/09_basic_lineplot.png
-10_seaborn_barplot/10_barplot_comparison.png
+08_pandas_basics/data.csv
+08_pandas_basics/data_new.csv
+09_plotting_basics/basic_lineplot.png
+10_seaborn_barplot/barplot_comparison.png
