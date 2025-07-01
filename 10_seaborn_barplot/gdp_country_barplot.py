@@ -13,5 +13,5 @@ df = pd.DataFrame(data)
 sns.barplot(y = 'Country', x = 'GPD', data = df, palette = "Blues")
 
 
-plt.savefig("10_barplot_comparsion.png")
+plt.savefig("barplot_comparsion.png")
 plt.show()

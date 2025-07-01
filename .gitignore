@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Output folders
+**/lots_of_empty_text_files/
+**/output/
+**/__pycache__/
+
+# Generated CSVs and images
+*.csv
+*.png
+
+# Specifically ignored files
+03_log_error_counter/log.txt
+04_csv_score_checker/scores.csv
+08_pandas_basics/08_data.csv
+08_pandas_basics/08_new.csv
+09_plotting_basics/09_basic_lineplot.png
+10_seaborn_barplot/10_barplot_comparison.png

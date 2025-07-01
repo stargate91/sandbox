@@ -36,9 +36,9 @@ vcounts = df["age"].value_counts() # can be used with groupby
 print(vcounts)
 
 base_path = os.path.dirname(os.path.abspath(__file__))
-csv_path = os.path.join(base_path, "08_data.csv")
+csv_path = os.path.join(base_path, "data.csv")
 
-output_path = os.path.join(base_path, "08_new.csv")
+output_path = os.path.join(base_path, "data_new.csv")
 
 # print(df.head())
 # print(df.info())
