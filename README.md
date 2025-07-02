@@ -32,6 +32,7 @@ Output files (like `.csv`, `.png`) are usually ignored in version control.
 | 09  | `09_plotting_basics/`          | Simple line plot using matplotlib.                     |
 | 10  | `10_seaborn_barplot/`          | Horizontal barplot comparing GDP values by country.    |
 | 11  | `11_histogram_comparison/`     | Comparison of histograms using matplotlib and seaborn. |
+| 12  | `12_contacts_db/`    	       | Basic SQLite contact manager 							|
 
 ---
 
