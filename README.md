@@ -33,14 +33,13 @@ Output files (like `.csv`, `.png`) are usually ignored in version control.
 | 10  | `10_seaborn_barplot/`          | Horizontal barplot comparing GDP values by country.    |
 | 11  | `11_histogram_comparison/`     | Comparison of histograms using matplotlib and seaborn. |
 | 12  | `12_contacts_db/`    	       | Basic SQLite contact manager 							|
+| 13  | `13_lastfm_m3u_filter/`     | Filters scrobbled tracks from Last.fm CSV and M3U. |
 
 ---
 
 ## Future Additions
 
 Planned tasks and ideas:
-- SQL and SQLite practice
-- Data pipelines (cleaning + visualizing)
 - REST APIs with Flask or FastAPI
 - ML mini-projects (Scikit-learn)
 - Web scraping
