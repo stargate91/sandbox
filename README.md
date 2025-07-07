@@ -19,28 +19,30 @@ Output files (like `.csv`, `.png`) are usually ignored in version control.
 
 ## Completed Sandbox Tasks
 
-| #   | Folder Name                    | Description                                            |
-|-----|--------------------------------|--------------------------------------------------------|
-| 01  | `01_mass_file_creator/`        | Creates 100 empty `.txt` files in a directory.         |
-| 02  | `02_file_renamer/`             | Adds a `backup_` prefix to existing `.txt` files.      |
-| 03  | `03_log_error_counter/`        | Counts how many lines contain "ERROR" in `log.txt`.    |
-| 04  | `04_csv_score_checker/`        | Reads a CSV file and prints scores above a threshold.  |
-| 05  | `05_numpy_basics/`             | Performs simple NumPy array operations and reshaping.  |
-| 06  | `06_numpy_statistics/`         | Generates random numbers, then computes mean, median, std. |
-| 07  | `07_numpy_linear_algebra/`     | Demonstrates matrix multiplication, determinant, inverse, and eigenvalues. |
-| 08  | `08_pandas_basics/`            | Basic Pandas filtering, sorting, grouping, and saving CSV. |
-| 09  | `09_plotting_basics/`          | Simple line plot using matplotlib.                     |
-| 10  | `10_seaborn_barplot/`          | Horizontal barplot comparing GDP values by country.    |
-| 11  | `11_histogram_comparison/`     | Comparison of histograms using matplotlib and seaborn. |
-| 12  | `12_contacts_db/`    	       | Basic SQLite contact manager 							|
-| 13  | `13_lastfm_m3u_filter/`     | Filters scrobbled tracks from Last.fm CSV and M3U. |
+| #   | Folder Name                | Description                                                                          |
+|-----|----------------------------|--------------------------------------------------------------------------------------|
+| 01  | `01_mass_file_creator/`    | Creates 100 empty `.txt` files in a directory.                                      |
+| 02  | `02_file_renamer/`         | Adds a `backup_` prefix to existing `.txt` files.                                   |
+| 03  | `03_log_error_counter/`    | Counts how many lines contain "ERROR" in `log.txt`.                                 |
+| 04  | `04_csv_score_checker/`    | Reads a CSV file and prints scores above a threshold.                               |
+| 05  | `05_numpy_basics/`         | Performs simple NumPy array operations and reshaping.                               |
+| 06  | `06_numpy_statistics/`     | Generates random numbers, then computes mean, median, std.                          |
+| 07  | `07_numpy_linear_algebra/` | Demonstrates matrix multiplication, determinant, inverse, and eigenvalues.          |
+| 08  | `08_pandas_basics/`        | Basic Pandas filtering, sorting, grouping, and saving CSV.                          |
+| 09  | `09_plotting_basics/`      | Simple line plot using matplotlib.                                                  |
+| 10  | `10_seaborn_barplot/`      | Horizontal barplot comparing GDP values by country.                                 |
+| 11  | `11_histogram_comparison/` | Comparison of histograms using matplotlib and seaborn.                              |
+| 12  | `12_contacts_db/`          | Basic SQLite contact manager                                                        |
+| 13  | `13_lastfm_m3u_filter/`    | Filters scrobbled tracks from Last.fm CSV and M3U.                                 |
+| 14  | `14_random_movie_idea_api/`| Provides a random movie or event idea from a preset list via FastAPI.               |
+| 15  | `15_fastapi_calculator/`   | Basic calculator API supporting add, subtract, multiply, divide, and custom operations via FastAPI. |
+
 
 ---
 
 ## Future Additions
 
 Planned tasks and ideas:
-- REST APIs with Flask or FastAPI
 - ML mini-projects (Scikit-learn)
 - Web scraping
 
